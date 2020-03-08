@@ -15,8 +15,8 @@ int main(void)
    int i;
    char *s[] = 
    {
-      "Git tutorials",
-      "WebMagic Informatica"
+      "Git tutorials ...........",
+      "WebMagic Informatica 123"
    };
 
    for (i = 0; i < 2; ++i)
